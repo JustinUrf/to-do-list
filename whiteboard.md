@@ -9,7 +9,7 @@ form that gathers user input [x]
 
 area where to do list shows up [x]
 
-(more js logic but have it so that each item that shows up shows up
+(more js logic but have it so that each item that shows up shows up)
 
 with a button) that is interactive
 
@@ -20,20 +20,20 @@ bootstrap [x]
 
 js
 >
-database that holds each to do list
+database that holds each to do list [x]
 
-function that adds to-do-list items
+function that adds to-do-list items[x]
 
-function that id's to-do-list items
+function that id's to-do-list items[x]
 
 function that deletes to-do-list items
 
-function that finds to-do-list items? 
+function that finds to-do-list items? [x]
 
-constructor function that creates new to do list items
+constructor function that creates new to do list items[x]
 
-event handler form that takes in user input and displays UI feedback
- to user
+event handler form that takes in user input and displays UI feedback to user [x]
+
 event handler form that takes in user input to checkmark off completed items
 
 event handler form that takes user input to delete a to-do-list item.
